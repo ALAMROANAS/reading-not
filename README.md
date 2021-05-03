@@ -4,4 +4,4 @@
 | name     | details |
 | ----------- | ----------- |
 | [growth](https://alamroanas.github.io/reading-notes/read01)     | [link](https://alamroanas.github.io/reading-notes/read02)       |
-| github   | ilnk        |
+| [github](https://alamroanas.github.io/reading-notes/read03)  | ilnk        |

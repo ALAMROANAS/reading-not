@@ -1,0 +1,4 @@
+# link replit with githup
+
+## Press the green Import from GitHub button and you'll see Repl.it clone the repository and turn it into a repl. In all of our previous projects, we used the main.py file that Repl.it automatically creates for all new Python projects, and which it runs automatically when you press the run button. Note how in this GitHub project, we have no main.py file, and our code is instead in mydemoapp.py. Therefore, Repl.it will need some help from you to define how to run the project. This is configured through another special file named .replit. Because there was no main.py file, Repl.it automatically created this file and will prompt you to configure it.
+![pic](https://docs.replit.com/images/tutorials/06-github/06-01-github-import.png)
