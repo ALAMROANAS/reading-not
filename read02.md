@@ -1,0 +1,5 @@
+# more information
+
+## To briefly sum up the findings: Individuals who believe their talents can be developed (through hard work, good strategies, and input from others) have a growth mindset. They tend to achieve more than those with a more fixed mindset (those who believe their talents are innate gifts). This is because they worry less about looking smart and they put more energy into learning. When entire companies embrace a growth mindset, their employees report feeling far more empowered and committed; they also receive far greater organizational support for collaboration and innovation. In contrast, people at primarily fixed-mindset companies report more of only one thing: cheating and deception among employees, presumably to gain an advantage in the talent race.
+
+![pic](https://hbr.org/resources/images/article_assets/2016/01/jan16-13-hbr-nguyen-img-345.jpg)

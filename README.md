@@ -1,10 +1,7 @@
-# growth mindset
-# I think it is the best way to think
-## . Acknowledge and embrace imperfections
-## . View challenges as opportunities.
-## .Try different learning tactics
+# my name is alamro anas , i graduated from The Arab Academy For Banking & Financial Sciences as a computer information system , 
 
-| Syntax      | Description |
+
+| growth mindset     | details |
 | ----------- | ----------- |
-| Header      | Title       |
+| [growth](https://alamroanas.github.io/reading-notes/read01)     | Title       |
 | Paragraph   | Text        |
