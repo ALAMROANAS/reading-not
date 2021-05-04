@@ -6,7 +6,7 @@
 |    growth  | [link](https://alamroanas.github.io/reading-notes/read02)|[link2](https://alamroanas.github.io/reading-notes/read01)| 
  |
 | git | [link](https://alamroanas.github.io/reading-notes/read04)        |[link2](https://alamroanas.github.io/reading-notes/read03) 
-
+|css|[link](https://alamroanas.github.io/reading-notes/read06)
 
 ### learning today
 
