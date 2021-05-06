@@ -8,7 +8,7 @@
 | git | [link](https://alamroanas.github.io/reading-notes/read04)        |[link2](https://alamroanas.github.io/reading-notes/read03) 
 |css|[link](https://alamroanas.github.io/reading-notes/read06)
 |java|[link](alamroanas.github.io/reading-notes/read04a)
-
+|loop|[https://alamroanas.github.io/reading-notes/read5]
 ### learning today
 
 [link](https://alamroanas.github.io/reading-notes/read05)
