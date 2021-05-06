@@ -19,4 +19,3 @@
 
 **A for loop repeats until a specified condition evaluates to false. The JavaScript for loop is similar to the Java and C for loop.**
 
-*for ([initialExpression]; [conditionExpression]; [incrementExpression])*
