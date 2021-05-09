@@ -9,6 +9,7 @@
 |css|[link](https://alamroanas.github.io/reading-notes/read06)
 |java|[link](alamroanas.github.io/reading-notes/read04a)
 |loop|[https://alamroanas.github.io/reading-notes/read5]
+|function|[https://alamroanas.github.io/reading-notes/read6]
 ### learning today
 
 [link](https://alamroanas.github.io/reading-notes/read05)
